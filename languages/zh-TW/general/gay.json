@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Gay%",
+    "USAGE": "{{prefix}}gay [mention | id | username]",
+    "EXAMPLES": "{{prefix}}gay @Flqtla#1225",
+    "yes" :"是"
+}

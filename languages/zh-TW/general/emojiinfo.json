@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "檢查表情符號信息",
+    "USAGE": "{{prefix}}emojiinfo ",
+    "EXAMPLES": "{{prefix}}emoji <>",
+    "args" : "放置表情符號或表情符號ID以獲取數據",
+    "unicode" : "您剛剛插入的表情符號是unicode表情符號😔，目前我不支持這些表情符號😥，但很快我會支持！ 😏",
+    "not_exist" : "這個表情符號不存在",
+    "invalid" : "無效的表情符號."
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "啟用自動播放 - 隨機播放類似的歌曲",
+    "USAGE": "{{prefix}}autoplay",
+    "EXAMPLES": "{{prefix}}autoplay",
+    "message": "自動播放正在已 ",
+    "active" : "開啟",
+    "deactive": "關閉"
+}

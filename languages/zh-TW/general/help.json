@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION": "顯示指令列表或有關指令的信息.",
+    "USAGE": "{{prefix}}help (command)",
+    "EXAMPLES": "{{prefix}}help\n{{prefix}}help ping",
+    "CUSTOM": "`{{cmd}}` 該指令沒有幫助頁面，因為它是自定義指令.",
+    "NOT_FOUND": "找不到指令: `{{search}}`",
+    "FIELD_USAGE": "用法",
+    "FIELD_DESCRIPTION": "描述",
+    "FIELD_ALIASES": "別名",
+    "FIELD_EXAMPLES": "例子",
+    "FIELD_PERMISSIONS": "權限",
+    "NO_ALIAS": "沒有別名.",
+    "CMD_TITLE": "幫助 {{prefix}}{{cmd}}",
+    "INFO": "● 獲取有關指令類型的幫助 `{{prefix}}help <指令>`!",
+    "CUSTOM_COMMANDS": "自定義指令",
+    "TITLE": "{{name}} | 指令",
+    "NO_REQUIRED_PERMISSION": "無需特定權限即可執行此指令."
+}

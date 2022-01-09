@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "顯示您已邀請加入伺服器的人數!",
+    "USAGE": "{{prefix}}invitations (@member)",
+    "EXAMPLES": "{{prefix}}invitations\n{{prefix}}invitations @YeSheng#2926",
+    "NOBODY_AUTHOR": "您沒有邀請任何人加入伺服器!",
+    "NOBODY_MEMBER": "{{member}} 沒有邀請任何人加入伺服器!",
+    "CODE": "**{{code}}** ({{uses}} 使用過) | {{channel}}",
+    "TITLE": "有關的邀請信息 {{member}} 在 {{guild}}",
+    "FIELD_INVITED": "👥 已邀人數",
+    "FIELD_CODES": "🔑 Codes",
+    "FIELD_MEMBERS": "{{total}} 人數",
+    "TRACKER": "邀請追踪器"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "加入語音頻道",
+    "USAGE": "{{prefix}}join",
+    "EXAMPLES": "{{prefix}}join",
+    "TITLE" : "已加入您的頻道",
+    "SUCCESS" : "`播放歌用: {{prefix}}play`"
+
+}

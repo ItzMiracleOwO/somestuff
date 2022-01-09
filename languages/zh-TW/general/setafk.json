@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "AFk功能（提及您的使用者將收到一條消息）",
+    "USAGE": "{{prefix}}setafk [原因]",
+    "EXAMPLES": "{{prefix}}setafk I'm eating =)",
+    "MISSING_REASON": "請輸入您AFK原因!",
+    "SUCCESS": "你現在 AFK (原因: {{reason}})",
+    "DELETED": "**{{username}}**, 您的AFK已被刪除!",
+    "IS_AFK": "**{{user}}** 正在掛機, 原因:\n```{{reason}}```"
+}

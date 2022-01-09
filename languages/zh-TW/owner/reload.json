@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "重新加載指令!",
+    "USAGE": "{{prefix}}reload",
+    "EXAMPLES": "{{prefix}}reload",
+    "NOT_FOUND": "找不到指令 `{{search}}`!",
+    "SUCCESS": "指令成功重新加载!"
+}

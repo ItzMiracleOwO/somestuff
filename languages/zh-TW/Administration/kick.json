@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "踢提到的成員!",
+    "USAGE": "{{prefix}}kick [@user] (reason)",
+    "EXAMPLES": "{{prefix}kick @YeSheng#2926 Spam",
+    "MISSING_MEMBER": "請指定一個有效的成員!",
+    "MISSING_PERM": "發生了錯誤... 檢查我是否有權踢該成員並重試!",
+    "KICKED_DM": "你好 {{username}},\n您剛剛被踢出 **{{server}}** 由 **{{moderator}}** 因 **{{reason}}**!",
+    "KICKED": "**{{username}}** 剛剛被踢出 **{{server}}** 由 **{{moderator}}** 因 **{{reason}}**!",
+    "CASE": "踢出 | 案件 #{{count}}"
+}

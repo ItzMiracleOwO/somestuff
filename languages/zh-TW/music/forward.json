@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "向前播放歌曲：秒",
+    "USAGE": "{{prefix}}forwards <DURATION>",
+    "EXAMPLES": "{{prefix}}forwards 10",
+    "TITLE" : "向前播放!",
+    "SUCCESS": "將歌曲向前了 `{{time}}` 幾秒鐘"
+}

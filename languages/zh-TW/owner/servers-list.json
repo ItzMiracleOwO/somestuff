@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "顯示伺服器列表!",
+    "USAGE": "{{prefix}}servers-list",
+    "EXAMPLES": "{{prefix}}servers-list"
+}

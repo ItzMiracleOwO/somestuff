@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "在 Discord 中觀看 YouTube",
+    "USAGE": "{{prefix}}yt",
+    "EXAMPLES": "{{prefix}}yt",
+
+    "TEXT": "你可以使用 **YouTube Together** 和你的朋友一起在語音頻道中觀看 Youtube. 點擊 **打開 YouTube Together** 來一起觀看 Youtube 吧!",
+    "BUTTON_TEXT": "打開 YouTube Together"
+}

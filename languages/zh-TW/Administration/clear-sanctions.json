@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "刪除成員的所有製裁!",
+    "USAGE": "{{prefix}}clear-sanctions [@member]",
+    "EXAMPLES": "{{prefix}}clear-sanctions @YeSheng#2926",
+    "MISSING_MEMBER": "請提及您要取消制裁的成員!",
+    "SUCCESS": "所有的製裁 **{{username}}** 被刪除!"
+}

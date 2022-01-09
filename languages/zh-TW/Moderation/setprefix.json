@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "設置伺服器前綴!",
+    "USAGE": "{{prefix}}setprefix [prefix]",
+    "EXAMPLES": "{{prefix}}setprefix +",
+    "MISSING_PREFIX": "請輸入有效的前綴!",
+    "TOO_LONG": "前綴不得超過5個字!",
+    "SUCCESS": "伺服器前綴已設置為 `{{prefix}}`!"
+}

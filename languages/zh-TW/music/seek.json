@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "進入歌曲的時間：秒",
+    "USAGE": "{{prefix}}seek",
+    "EXAMPLES": "{{prefix}}seek <DURATION>",
+    "ERROR" : "請添加您想要向前的時間",
+    "TITLE" : "已向前!",
+    "SUCCESS": "歌曲已向前 `{{time}} 幾秒``"
+
+}

@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Embed生成器.",
+    "USAGE": "{{prefix}}eb",
+    "EXAMPLES": "{{prefix}}eb"
+}

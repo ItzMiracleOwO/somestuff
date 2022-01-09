@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "添加新的提醒",
+    "USAGE": "{{prefix}}remindme [message]",
+    "EXAMPLES": "{{prefix}}remindme 24h Work command\n{{prefix}}remindme 3m Take the pasta out of the pan!",
+    "MISSING_MESSAGE": "您必須輸入將在時間結束時發送給您的消息!",
+    "SAVED": "提醒已保存，您將在時間結束時收到一條消息!",
+    "TITLE": "ZaraReminder",
+    "CREATED": "訊息創建 {{time}}"
+}

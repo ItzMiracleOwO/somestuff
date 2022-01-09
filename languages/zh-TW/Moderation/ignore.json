@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "禁用或啟用頻道中的指令",
+    "USAGE": "{{prefix}}ignore [channel]",
+    "EXAMPLES": "{{prefix}}ignore #channel",
+    "ALLOWED": "現在允許使用頻道在 {{channel}}!",
+    "IGNORED": "現在禁止使用頻道在 {{channel}}!"
+}

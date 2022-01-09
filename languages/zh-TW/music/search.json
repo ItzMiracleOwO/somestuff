@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "在youtube中搜索10個結果",
+    "USAGE": "{{prefix}}search",
+    "EXAMPLES": "{{prefix}}search <URL/NAME>",
+    "searching" : "🔎 搜尋中...!",
+    "search_result" : "🔎 搜索結果:",
+    "not_right_num" : "沒有正確的數字!",
+    "num_result" : "所以我選擇1!",
+    "error_404" : "出問題了! / 時間用完"
+
+}

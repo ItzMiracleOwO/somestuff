@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "邀請連結",
+    "USAGE": "{{prefix}}invite",
+    "EXAMPLES": "{{prefix}}invite",
+    "Title" : "邀請連結",
+    "Offical_Group": "💬官方群组邀請連結",
+    "Bot_Link": "🤖機械人邀請連結",
+    "Vote": "📊投票連結: ",
+    "Embed":"機械人邀請連結"
+}

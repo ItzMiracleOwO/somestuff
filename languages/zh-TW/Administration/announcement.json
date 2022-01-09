@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "在當前頻道中發送公告!",
+    "USAGE": "{{prefix}}announcement [text]",
+    "EXAMPLES": "{{prefix}}announcement New #spam channel!",
+    "MISSING_TEXT": "您必須輸入公告文字!",
+    "TOO_LONG": "請輸入少於1030個字符的文本!",
+    "MENTION_PROMPT": "您想在信息中添加提及嗎? 回答 \"yes\" or \"no\"!",
+    "MENTION_TYPE_PROMPT": "輸入以下答案之一: `every` (for a mention @ everyone) 或 `here` (for a mention @ here)!",
+    "Post_Time": " 發佈時間",
+    "Poster": "公告發佈者",
+    "Post_Info": "公告內容",
+    "TITLE": "📢 公告:"
+}

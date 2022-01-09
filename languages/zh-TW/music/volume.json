@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "改變音量",
+    "USAGE": "{{prefix}}volume <音量數字>",
+    "EXAMPLES": "{{prefix}}vol 70"
+}

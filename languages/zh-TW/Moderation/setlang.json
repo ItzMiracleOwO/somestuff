@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "更改伺服器語言!",
+    "USAGE": "{{prefix}}setlang [語言]",
+    "EXAMPLES": "{{prefix}}setlang english\n{{prefix}}setlang Chinese",
+    "MISSING_LANG": "請輸入有效的語言！ 這是可用的語言: {{list}}",
+    "SUCCESS": ":flag_hk: 語言設定為中文!"
+}

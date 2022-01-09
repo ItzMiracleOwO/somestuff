@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "在私人訊息中警告成員",
+    "USAGE": "{{prefix}}warn [@member] [reason]",
+    "EXAMPLES": "{{prefix}warn @YeSheng#2926 Spam",
+    "MISSING_MEMBER": "請指定您要警告的成員!",
+    "MISSING_REASON": "請輸入原因!",
+    "WARNED_DM": "你好 {{username}},\n您剛剛被警告過在 **{{server}}** 由 **{{moderator}}** 因 **{{reason}}**!",
+    "WARNED": "**{{username}}** 已被私人訊息警告因 **{{reason}}**!",
+    "CASE": "警告 | 案件 #{{caseNumber}}"
+}

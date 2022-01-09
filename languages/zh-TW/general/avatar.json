@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "使用者頭像",
+    "USAGE": "{{prefix}}avatar",
+    "EXAMPLES": "{{prefix}}avatar",
+    "The_Avatar" : " 的頭像",
+    "Embed_Avatar": "頭像網址連結"
+}

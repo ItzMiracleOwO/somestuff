@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "創建動態語音",
+    "USAGE": "{{prefix}}dvc",
+    "EXAMPLES": "{{prefix}dvc",
+    "dvc" : "創建語音",
+    "category" : "動態語音",
+    "EMBED_TITLE": "動態語音",
+    "EMBED_DESC" : "成功創建!"
+    
+   
+}

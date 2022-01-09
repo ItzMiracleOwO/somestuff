@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "從伺服器增加自定義指令!",
+    "USAGE": "{{prefix}}addcommand [name] [answer]",
+    "EXAMPLES": "{{prefix}}addcommand hello Hello {user}! How are you?",
+    "MISSING_NAME": "請輸入指令名稱!",
+    "MISSING_ANSWER": "請輸入指令答案!",
+    "SUCCESS": "指令 **{{prefix}}{{commandName}}** 已增加!"
+}

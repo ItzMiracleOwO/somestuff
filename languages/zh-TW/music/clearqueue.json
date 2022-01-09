@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "清除全部隊列!",
+    "USAGE": "{{prefix}}clearqueue ",
+    "EXAMPLES": "{{prefix}}clearqueue" ,
+    "success" : "已清除隊列!"
+
+}

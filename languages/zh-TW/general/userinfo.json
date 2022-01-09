@@ -1,0 +1,26 @@
+{
+    "DESCRIPTION": "玩家資料",
+    "USAGE": "{{prefix}}userinfo",
+    "EXAMPLES": "{{prefix}}userinfo <id / @XXX#000>",
+
+    "locale": "zh-tw",
+    "Name": "用戶名稱",
+    "ID" : "用戶ID",
+    "IS_BOT": "機械人",
+    "Created" : "用戶建立時間",
+    "Joining" : "加入時間",
+    "Nickname": "暱稱",
+
+    "UserBadges" : "用戶徽章",
+    "Status": "玩家狀態",
+    "Playing" : "正在玩",
+    "Color" : "顏色",
+    "Role": "身份組",
+    "High": "最高身份組",
+    "hoist" : "升高身份組",
+
+"none_playing": "没有在玩"
+
+
+
+}

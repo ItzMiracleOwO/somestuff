@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "設置審核日誌頻道!",
+    "USAGE": "{{prefix}}setmodlogs (#channel)",
+    "EXAMPLES": "{{prefix}}setmodlogs #modlogs\n{{prefix}}setmodlogs",
+    "SUCCESS_ENABLED": "審核日誌將發送到 **{{channel}}**!",
+    "SUCCESS_DISABLED": "審核日誌通道已刪除!"
+}

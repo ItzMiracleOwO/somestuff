@@ -1,0 +1,23 @@
+{
+    "DESCRIPTION": "頻道資料",
+    "USAGE": "{{prefix}}channelinfo",
+    "EXAMPLES": "{{prefix}}channelinfo <文字頻道>",
+
+    "Error": "請輸入一個有效的頻道.",
+    "dm" : "私聊",
+    "group": "群组私聊",
+    "text":  "文字頻道",
+    "voice": "語音頻道",
+    "category": "類別",
+    "unknown": "未知",
+
+    "Name": "頻道名字",
+    "id":"頻道ID",
+    "CreatedAt" :"頻道創建時間",
+    "nsfw": "頻道NSFW",
+    "parent" : "頻道類別",
+    "type" : "頻道類型",
+    "topic": "頻道主題",
+
+    "no": "無"
+}

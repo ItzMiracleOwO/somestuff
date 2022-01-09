@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "顯示有關冠狀病毒的統計信息.",
+    "USAGE": "{{prefix}}corona",
+    "EXAMPLES": "{{prefix}}corona hk \n{{prefix}}corona",
+
+    "Covid9" : "• 冠狀病毒統計 •",
+    "confirmed" : "• 確診病例",
+    "Today_Case": "• 今日案例",
+    "Today_Death": "• 今日死亡",
+    "Active": "• 活躍",
+    "Recovered" : "• 已恢復",
+    "Deaths" : "• 死亡人數",
+    "Tests": "測驗",
+    "CPM": "案例毎百萬",
+    "DPM": "死亡人數毎百萬",
+    "LastUp": "最近更新時間:"
+}

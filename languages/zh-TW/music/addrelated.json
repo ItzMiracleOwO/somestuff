@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "添加當前歌曲類似的歌曲",
+    "USAGE": "{{prefix}}addrelated",
+    "EXAMPLES": "{{prefix}}addrelated",
+    "adding": "🔎 新增中...:"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "表情符號",
+    "USAGE": "{{prefix}}emoji",
+    "EXAMPLES": "{{prefix}}emoji",
+    "EMOJI": "表情符號"
+    "Animated" : "動態符號",
+    "Standard" : "一般符號",
+    "Count" : "表情符號數量"
+}

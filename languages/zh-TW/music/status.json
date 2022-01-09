@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "顯示隊列狀態/設置",
+    "USAGE": "{{prefix}}status",
+    "EXAMPLES": "{{prefix}}status"
+}

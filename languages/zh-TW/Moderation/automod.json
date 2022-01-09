@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "啟用或禁用自動刪除Discord邀請",
+    "USAGE": "{{prefix}}automod [on/off] (#channel)",
+    "EXAMPLES": "{{prefix}}automod on\n{{prefix}}automod off #general\n{{prefix}}automod off",
+    "MISSING_STATUS": "請輸入有效狀態! (`on` or `off`)",
+    "ENABLED": "Discord 邀請會自動刪除! 如果您想忽略頻道, 請輸入`{{prefix}}automod off #channel`!",
+    "DISABLED_CHANNEL": "自動審核將不再在頻道中執行 {{channel}}!",
+    "DISABLED": "自動審核 , 在此伺服器上不再有效!",
+    "DELETED": "**{{username}}**,您的訊息中包含 Discord 邀請, 所以已被刪除"
+}

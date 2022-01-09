@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "啟用或禁用自動刪除Nsfw內容",
+    "USAGE": "{{prefix}}antinsfw [on/off] (#channel)",
+    "EXAMPLES": "{{prefix}}automod on\n{{prefix}}automod off #general\n{{prefix}}automod off",
+    "MISSING_STATUS": "請輸入有效狀態! (`on` or `off`)",
+    "ENABLED": "Nsfw內容將被自動刪除",
+    "DISABLED": "伺服器上不再有效 自動刪除審核功能 !"
+}

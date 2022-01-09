@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "備份伺服器 , 如果你覺得不同!",
+    "USAGE": "{{prefix}}backup [create/load/infos]",
+    "EXAMPLES": "{{prefix}}backup create\n{{prefix}}backup load 558328638911545423\n{{prefix}}backup infos 558328638911545423",
+    "MISSING_STATUS": "您必須指定 `create`, `load` or `info`!",
+    "MISSING_BACKUP_ID": "請輸入正確的備份ID!",
+    "NO_BACKUP_FOUND": "找不到備份 `{{backupID}}`",
+    "TIMES_UP": "時間到！ 取消備份加載!",
+    "SUCCESS_PUBLIC": "已成功創建備份! 備份ID已經發送在你的私聊!",
+    "SUCCESS_PRIVATE": "這是你的備份ID: `{{backupID}}`, 使用它將備份到另一伺服器上!",
+    "CONFIRMATION": ":warning: | 加載備份後，所有頻道，身份組等將被替換! 輸入 `-confirm`確定!",
+    "START_LOADING": "開始加載備份!",
+    "LOAD_SUCCESS": "備份已成功加載!",
+    "TITLE_INFOS": "備份資訊",
+    "TITLE_ID": "ID",
+    "TITLE_SERVER_ID": "伺服器 ID",
+    "TITLE_SIZE": "大小",
+    "TITLE_CREATED_AT": "創建於"
+}

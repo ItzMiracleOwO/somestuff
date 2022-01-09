@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "取消提及成員的靜音!",
+    "USAGE": "{{prefix}}unmute [@member]",
+    "EXAMPLES": "{{prefix}unmute @YeSheng#2926",
+    "MISSING_MEMBER": "請指定您要取消靜音的成員!",
+    "NOT_MUTED": "**{{username}}** 沒有對此服務器靜音!",
+    "SUCCESS": "**{{username}}** 剛剛取消靜音!",
+    "SUCCESS_CASE": "{{user}} (`{{usertag}}`) 剛剛被靜音! (靜音次數: #{{count}})"
+}

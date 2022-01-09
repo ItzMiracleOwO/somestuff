@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "暫停歌曲*",
+    "USAGE": "{{prefix}}pause",
+    "EXAMPLES": "{{prefix}}pause",
+    "error" : "正在暫停中...!",
+    "title" : "已暫停"
+}

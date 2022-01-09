@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "刪除特定的歌曲",
+    "USAGE": "{{prefix}}remove <查詢號碼>",
+    "EXAMPLES": "{{prefix}}remove 1",
+    "noargs" : "您要刪除的曲目位置?",
+    "out_range" : "您的歌曲排名超出了範圍! 最大限度: {{songs}}",
+    "success" : "成功完全刪除了您特定的歌曲"
+
+}

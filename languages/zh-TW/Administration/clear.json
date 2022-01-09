@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "快速刪除信息!",
+    "USAGE": "{{prefix}}clear [number-of-messages] (@member)",
+    "EXAMPLES": "{{prefix}clear 10\n{{prefix}clear 10 @YeSheng#2926",
+    "MISSING_AMOUNT": "您必須指定一些要刪除的信息!",
+    "ALL_CONFIRM": "該頻道的所有信息將被刪除! 確認輸入 `-confirm`",
+    "CHANNEL_CLEARED": "頻道已清除!",
+    "CLEARED": "**{{amount}}** 訊息已刪除!",
+    "CLEARED_MEMBER": "**{{amount}}** 的訊息 **{{username}}** 已刪除!"
+}

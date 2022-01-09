@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "顯示成員提出的違規列表!",
+    "USAGE": "{{prefix}}sanctions [@member]",
+    "EXAMPLES": "{{prefix}}sanctions @YeSheng#2926",
+    "MISSING_MEMBER": "您必須指定要顯示其違規的成員!",
+    "NO_SANCTION": "**{{username}}** 沒有受到任何違規."
+}

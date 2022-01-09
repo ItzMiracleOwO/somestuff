@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "設定建議頻道!",
+    "USAGE": "{{prefix}}setsuggests (#channel)",
+    "EXAMPLES": "{{prefix}}setsuggests #suggestions\n{{prefix}}setsuggests",
+    "SUCCESS_ENABLED": "建議頻道設定為 **{{channel}}**!",
+    "SUCCESS_DISABLED": "建議頻道已被刪除!"
+} 

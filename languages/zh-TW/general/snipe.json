@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "狙擊已刪除訊息",
+    "USAGE": "{{prefix}}snipe",
+    "EXAMPLES": "{{prefix}}snipe",
+    "Error": "對不起, 因為狙擊命令被視為侵犯用戶隱私 所以我們禁用使用!!",
+    "NotFound": "找不到抱歉",
+    "Message": "訊息"
+}

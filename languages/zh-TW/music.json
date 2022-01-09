@@ -1,0 +1,29 @@
+{
+    "song" : "歌曲",
+    "requestby" : "點播者",
+    "autoplay" : "自動播放",
+    "queue": "隊列",
+    "volume" : "音量",
+    "loop": "循環播放",
+    "filter" : "過濾器",
+    "dj_role" : "DJ 身份組",
+    "dowlond_song": "下載歌曲",
+    "duration": "時間",
+    "Embed_Title" : "🎶播放歌曲!",
+    "NowPlaying": "正在播放",
+
+    "NothingPlaying" : "沒有歌曲正在播放!",
+    "JoinVoiceChannel" : " 你必須先加入語音頻道!",
+    "JoinMyChannel" : " 你必須與我位於同一個語音頻道: ",
+    "nullPlaying" : "這裏沒有歌曲正在播放!",
+    "Missed_permC" : "我無法連接頻道! 我缺了`加入` `說話`的權限.",
+    "Missed_perm" : "我沒有足夠的權限! 我缺了`加入` `說話`的權限.",
+  
+
+    "fetching": "🎶 提取歌曲中...!",
+    "loading_time" : "加載中 ... \n這個大約帶我 {{song}} 秒完成" ,
+
+    "deezer_plist" : "'s Deezer 播放清單",
+    "spotify_plist" : "'s Spotify 播放清單"
+    
+}

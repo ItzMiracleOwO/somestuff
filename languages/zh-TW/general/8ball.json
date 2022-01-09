@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "我告訴你真相!",
+    "USAGE": "{{prefix}}8ball [question]",
+    "EXAMPLES": "{{prefix}}8ball u r gay?",
+    "ERR_QUESTION": "你必須輸入一個問題來問我!",
+    "RESPONSE_1": "我敢肯定",
+    "RESPONSE_2": "絕對安全。",
+    "RESPONSE_3": "當然是。",
+    "RESPONSE_4": "最好現在不要告訴你。",
+    "RESPONSE_5": "稍後再問。",
+    "RESPONSE_6": "不要指望它。",
+    "RESPONSE_7": "我不認為",
+    "RESPONSE_8": "我的消息來源說不。",
+    "RESPONSE_9": "不.",
+    "RESPONSE_10": "前景不太好."
+}

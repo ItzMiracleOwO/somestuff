@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "隨機排序音樂隊列",
+    "USAGE": "{{prefix}}Shuffle",
+    "EXAMPLES": "{{prefix}}Shuffle",
+    "SUCCESS": "隨機排序了音樂隊!"
+}

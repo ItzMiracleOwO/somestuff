@@ -1,0 +1,16 @@
+{
+    "ONE_DAY": "1 天",
+    "DAYS": "{{amount}} 天",
+    "ONE_HOUR": "1 小時",
+    "HOURS": "{{amount}} 小時",
+    "ONE_MINUTE": "1 minute",
+    "MINUTES": "{{amount}} 分鐘",
+    "ONE_SECOND": "1 秒",
+    "SECONDS": "{{amount}} 秒",
+
+
+    "DAY" : "天",
+    "HOUR" : "小時",
+    "MINUTE": "分鐘",
+    "SECOND" : "秒"
+}

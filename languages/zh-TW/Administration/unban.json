@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "取消封鎖用戶進入服務器!",
+    "USAGE": "{{prefix}}unban [userID/user#0000]",
+    "EXAMPLES": "{{prefix}unban 422820341791064085\n{{prefix}}unban Androz#2091",
+    "MISSING_ID": "請指定您要取消封鎖的會員的ID!",
+    "NOT_BANNED": "**{{username}}** 沒有被封鎖!",
+    "UNBANNED": "**{{username}}** 剛剛被取消封鎖 **{{server}}**!"
+}

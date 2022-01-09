@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "播放youtube，soundcloud或其他音樂中的歌曲，或者搜索它，或者播放播放列表！",
+    "USAGE": "{{prefix}}play [song]",
+    "EXAMPLES": "{{prefix}}play Bye Bye",
+    "search" : "搜尋中... \n > {{song}}",
+
+    "use" : " 請提供您想搜索的內容"
+}

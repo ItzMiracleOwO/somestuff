@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "設定頻道的冷卻時間",
+    "USAGE": "{{prefix}}slowmode [#channel] (時間)",
+    "EXAMPLES": "{{prefix}}slowmode #general 10m\n{{prefix}}slowmode #general",
+    "DISABLED": "慢速模式已在 {{channel}} 禁用!",
+    "ENABLED": "已在 {{channel}}啟用慢速模式 , 時間 {{time}}!",
+    "PLEASE_WAIT": "頻道 {{channel}} 處於慢速模式! 請等 {{time}} 才發送訊息!"
+}

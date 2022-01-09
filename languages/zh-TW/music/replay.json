@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "重播當前歌曲",
+    "USAGE": "{{prefix}}replay",
+    "EXAMPLES": "{{prefix}}replay",
+
+    "success" : "重播當前歌曲:"
+}

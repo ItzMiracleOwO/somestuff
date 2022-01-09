@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "舉報用戶!",
+    "USAGE": "{{prefix}}report [@user] [reason]",
+    "EXAMPLES": "{{prefix}}report @YeSheng#2926 Breaking the rules",
+    "MISSING_CHANNEL": "未定義舉報頻道!",
+    "MISSING_REASON": "請輸入舉報原因!",
+    "MISSING_USER": "請提及您要舉報的用戶!",
+    "INVALID_USER": "你不能舉報自己",
+    "SUCCESS": "您的舉報已發送在 {{channel}}!",
+    "TITLE": "舉報 - {{user}}"
+}

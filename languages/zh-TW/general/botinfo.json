@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "機械人資料!",
+    "USAGE": "{{prefix}}stats",
+    "EXAMPLES": "{{prefix}}stats",
+    "COUNTS_TITLE": "• __資料__",
+    "COUNTS_CONTENT": "`伺服器: {{servers}}`\n`使用者: {{users}}`  (DISCORD GATEWAY INTENT)",
+    "VERSIONS_TITLE": "• __版本__",
+    "RAM_TITLE": "• __記憶體__",
+    "ONLINE_TITLE": "• __在線時間__",
+    "ONLINE_CONTENT": "在線時間 : {{time}}",
+    "MUSIC_TITLE": "• __音樂__",
+    "MUSIC_CONTENT": "播放音樂在 `{{count}}` 個伺服器",
+    "Born": "出生 : ",
+    "CREDITS_TITLE": ":heart: • __製作人員__",
+    "CREDITS_CONTENT": "__**翻譯者**__:\n{{translators}}",
+    "LINKS_TITLE": "• __連結__",
+    "SYSTEM" : "運行系統",
+    "Verified": "已驗證",
+    "Servers" : "伺服器",
+    "Tracked" : "已追蹤用戶",
+    "ping" : "延遲"
+}

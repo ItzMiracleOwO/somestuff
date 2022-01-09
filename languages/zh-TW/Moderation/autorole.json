@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "在伺服器上啟用/禁用自動分配身份組!",
+    "USAGE": "{{prefix}}autorole [on/off] (role)",
+    "EXAMPLES": "{{prefix}}autorole on <@身份組/身份組ID>    \n{{prefix}}autorole off",
+    "MISSING_STATUS": "請指定有效狀態! (`on` or `off`) ({{prefix}}autorole <on/Off> <@身份組/身份組ID>)",
+    "MISSING_ROLE": "請指定一個有效身份組以添加到新成員!",
+    "SUCCESS_ENABLED": "已啟用自動分配身份組! 新成員將收到 **{{roleName}}** 身份組.",
+    "ALREADY_DISABLED": "自動分配身份組已被禁用. 啟用它 `{{prefix}}autorole @YourRole`!",
+    "SUCCESS_DISABLED": "自動分配身份組已禁用! 輸入 `{{prefix}}configuration` 查看您的新設定!"
+}

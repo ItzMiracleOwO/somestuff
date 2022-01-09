@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "封鎖提及的成員!",
+    "USAGE": "{{prefix}}ban [@user] (reason)",
+    "EXAMPLES": "{{prefix}ban @YeSheng#2926 Spam",
+    "MISSING_MEMBER": "請指定要封鎖的有效成員!",
+    "YOURSELF": "你不能製裁自己!",
+    "SUPERIOR": "您不能批准或更新對具有高級角色的成員的製裁 (或相等) 給你!",
+    "ALREADY_BANNED": "**{{username}}** 已經被封鎖!",
+    "MISSING_PERM": "發生了錯誤... 檢查我是否有權封鎖此成員，然後重試!",
+    "BANNED_DM": "你好 {{username}},\n您剛剛被封鎖 **{{server}}** 由 **{{moderator}}** 因 **{{reason}}**!",
+    "BANNED": "**{{username}}** 剛剛被封鎖 **{{server}}** 由 **{{moderator}}** 因 **{{reason}}**!",
+    "CASE": "封鎖 | 案件 #{{count}}"
+}

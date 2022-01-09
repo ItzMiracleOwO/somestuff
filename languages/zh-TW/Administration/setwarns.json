@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "定義成員經過一定數量的警告後將獲得的違規!",
+    "USAGE": "{{prefix}}setwarns [kick/ban] [number/reset]",
+    "EXAMPLES": "{{prefix}}setwarns kick 10\n{{prefix}}setwarns ban 10\n{{prefix}}setwarns ban reset",
+    "MISSING_TYPE": "請指定有效的違規類型! (`kick`, `ban`)",
+    "SUCCESS_KICK": "設定已保存! 當成員達到了 **{{count}}** 警告, 他們將被踢. 輸入 `{{prefix}}configuration` 查看您的新設定!",
+    "SUCCESS_BAN": "設定已保存! 當成員達到了 **{{count}}** 警告, 他將被封鎖. 輸入 `{{prefix}}configuration` 查看您的新設定!",
+    "SUCCESS_KICK_RESET": "設定已保存! 踢出製裁不再是自動的! 輸入 `{{prefix}}configuration` 查看您的新設定!",
+    "SUCCESS_BAN_RESET": "設定已保存! 禁令制裁不再是自動的! 輸入 `{{prefix}}configuration` 查看您的新設定!",
+    "AUTO_BAN": "**{{username}}** 被自動封鎖，因為它們的覆蓋範圍超過 **{{count}}** 警告!",
+    "AUTO_KICK": "**{{username}}** 被自動踢出，因為他們達到了 **{{count}}** 警告!"
+}

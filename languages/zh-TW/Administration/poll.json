@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "在當前頻道中發起調查!",
+    "USAGE": "{{prefix}}poll [question]",
+    "EXAMPLES": "{{prefix}}poll Do you want a new channel?",
+    "MISSING_QUESTION": "請指定一個/問題!",
+    "REACT": "回應 {{success}}  {{error}}!",
+    "TITLE": "📊 | 問題:"
+}

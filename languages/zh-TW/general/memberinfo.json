@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "成員人數資料",
+    "USAGE": "{{prefix}}memberinfo",
+    "EXAMPLES": "{{prefix}}memberinfo"
+
+
+}

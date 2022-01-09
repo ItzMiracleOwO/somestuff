@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "從伺服器刪除自定義指令!",
+    "USAGE": "{{prefix}}delcommand [name-of-the-command]",
+    "EXAMPLES": "{{prefix}}delcommand hey",
+    "MISSING_NAME": "請輸入您要刪除的指令的名稱!",
+    "UNKNOWN_COMMAND": "指令 {{commandName}} 不存在!",
+    "SUCCESS": "{{commandName}} 指令已從伺服器中刪除!"
+}

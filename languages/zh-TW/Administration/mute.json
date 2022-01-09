@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "在一段時間內阻止成員發送消息和通過語音連接!",
+    "USAGE": "{{prefix}}mute [@member] [time]",
+    "EXAMPLES": "{{prefix}}mute @YeSheng#2926 Spam",
+    "MISSING_MEMBER": "請指定一個有效成員以將其靜音!",
+    "MUTED_DM": "你好 {{username}},\n您剛剛被靜音 **{{server}}** 由 **{{moderator}}** 在 **{{time}}** 因 **{{reason}}**!",
+    "MUTED": "**{{username}}** 現在已被靜音 **{{time}}** 因 **{{reason}}**!",
+    "CASE": "靜音 | 案件 #{{count}}"
+}

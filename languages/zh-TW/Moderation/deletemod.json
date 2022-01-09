@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "啟用或禁用自動刪除審核命令!",
+    "USAGE": "{{prefix}}deletemod [on/off]",
+    "EXAMPLES": "{{prefix}}deletemod on",
+    "MISSING_STATUS": "請輸入有效狀態! (`on` or `off`)",
+    "ENABLED": "審核指令將被自動刪除!",
+    "DISABLED": "審核指令將不再被自動刪除。!"
+}

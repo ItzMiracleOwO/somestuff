@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "檢查成員是否在其狀態下為其Discord服務器投放廣告!",
+    "USAGE": "{{prefix}}checkinvites",
+    "EXAMPLES": "{{prefix}}checkinvites",
+    "NOBODY": "沒有成員在他的遊戲中賣廣告!"
+}

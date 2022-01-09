@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "跳到隊列中的一首歌",
+    "USAGE": "{{prefix}}skipto <查詢號碼>",
+    "EXAMPLES": "{{prefix}}skip 2",
+    "SUCCESS_TITLE" : "成功",
+    "SUCCESS" : "跳過了 {{song}} 歌曲!",
+    "vaild_num" : "無效的歌曲數字.",
+    "ERROR" : "錯誤",
+    "ERR_MESSAGE" : "請使用**0**和 **{{queuee}}**   |   *(0: 關閉, 1: 單曲循環 , 2:隊列循環)*"
+}

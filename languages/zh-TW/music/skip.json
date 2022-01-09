@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "跳過當前歌曲",
+    "USAGE": "{{prefix}}skip",
+    "EXAMPLES": "{{prefix}}skip",
+    "TITLE" : "跳過歌曲!",
+    "SUCCESS": "已跳過這首歌曲!"
+}

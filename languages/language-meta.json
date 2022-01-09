@@ -1,0 +1,32 @@
+[
+    {
+        "name": "en-US",
+        "nativeName": "English",
+        "moment": "en",
+        "defaultMomentFormat": "MMMM Do YYYY",
+        "default": true,
+        "aliases": [
+            "english",
+            "en",
+            "en-us",
+            "en_us",
+            "en_US",
+            "en-GB",
+            "en_GB"
+        ]
+    },
+    {
+        "name": "zh-TW",
+        "nativeName": "Chinese",
+        "defaultMomentFormat": "MMMM Do YYYY",
+        "moment": "zh-tw",
+        "default": false,
+        "aliases": [
+            "zh-hk",
+            "chinese",
+            "ZH_TW",
+            "zh-tw",
+            "zh_HK"
+        ]
+    }
+]

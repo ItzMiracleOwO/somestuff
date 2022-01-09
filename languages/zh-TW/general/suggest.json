@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "將您的建議發送到頻道！",
+    "USAGE": "{{prefix}}suggest [message]",
+    "EXAMPLES": "{{prefix}}suggest New channel #offtopic please",
+    "MISSING_CHANNEL": "未定義建議頻道!",
+    "MISSING_CONTENT": "請輸入建議!",
+    "TITLE": "建議 - {{user}}",
+    "SUCCESS": "您的建議正在被管理員投票 {{channel}}!"
+}

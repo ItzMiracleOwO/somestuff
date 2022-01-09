@@ -1,0 +1,65 @@
+{
+    "DESCRIPTION": "伺服器資料",
+    "USAGE": "{{prefix}}serverinfo",
+    "EXAMPLES": "{{prefix}}serverinfo",
+
+    "Title" : "伺服器資料",
+    "Name": "名字",
+    "ID": "ID",
+    "Owner": "擁有者",
+    "region" : "地區",
+    "verlvl" : "驗證等級",
+    "memberCount":"人數",
+    "roles": "身份組",
+    "Member_Status" : "成員狀態",
+    "Channels": "頻道",
+    "joinat" : "你加入的時間",
+    "createdAt" : "伺服器創建時間",
+
+    "TEXT_CHANNELS": "{{count}} 文字\n",
+    "VOICE_CHANNELS": "{{count}} 語音\n",
+    "CAT_CHANNELS": "{{count}} 分類\n",
+    "NEWS_CHANNELS": "{{count}} 公告\n",
+    "STORE_CHANNELS": "{{count}} 商店 ",
+
+
+    "Boost_Status": "伺服器加成狀態",
+    "Level": "等級",
+    "Boost_Tier": "加成數",
+
+    "Total_Members": "總人數",
+    "Members": "人數",
+    "Bots": "機械人",
+
+    "MEMBERS": "{{count}} 使用者",
+    "BOTS": "{{count}} 機器人",
+    "Animated" : "動態符號",
+    "Standard" : "一般符號",
+    "Count" : "表情符號數量",
+
+    "online" : "上線",
+    "idle": "閒置",
+    "dnd": "請勿打擾",
+    "offline": "離線/隱形",
+
+    "None": "沒有",
+    "Low": "低",
+    "Medium": "中等",
+    "HIGH":" '(╯°□°）╯︵ ┻━┻'",
+    "VERY_HIGH": "'┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻'",
+
+    "eu-central": ":flag_eu: 中歐",
+    "singapore": ":flag_sg: 新加坡",
+    "us-central": ":flag_us: 美國中部",
+    "sydney": ":flag_au: 悉尼",
+    "us-east": ":flag_us: 美國東部",
+    "us-south": ":flag_us: 美國南部",
+    "us-west": ":flag_us: 美國西方",
+    "eu-west": ":flag_eu: 西歐",
+    "london": ":flag_gb: 倫敦",
+    "hongkong": ":flag_hk: 香港",
+    "russia": ":flag_ru: 俄國",
+    "southafrica": ":flag_za:  南非",
+    "japan" : ":flag_jp 日本"
+
+}

@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "在伺服器中啟用/停用離開訊息!",
+    "USAGE": "{{prefix}}goodbye",
+    "EXAMPLES": "{{prefix}}goodbye",
+    "MISSING_STATUS": "請輸入有效狀態! (`edit` or `off`)",
+    "DEFAULT_MESSAGE": "{user} 離開 {server} :'( - {membercount}. 你的帳戶創建日期 {createdat}.",
+    "TEST_SUCCESS": "測試成功!",
+    "FORM_1": "你好 {{author}}! 請問你那個頻道發送歡迎訊息? (mention a channel)",
+    "FORM_2": "好! 離開訊息會在  {{channel}}發送. 在下面輸入歡迎訊息: \n\n{user} 離開了 {server} - {membercount}位成員!\n:arrow_down: 以下是例子\n {{author}} 離開了 {{guildName}} - {{memberCount}}位成員!.",
+    "FORM_3": "請問需要發送圖片嗎? 回答為 \"yes\" or \"no\"!",
+    "FORM_SUCCESS": "離開訊息啟用在 {{channel}}! 輸入 `{{prefix}}goodbye test` 去測試!",
+    "MAX_CHARACT": "您的訊息不得超過1800個字元!",
+    "DISABLED": "離開訊息已停用 ! 輸入 `{{prefix}}configuration` 參看參數!",
+    "IMG_GOODBYE": "離開了 {{server}}!",
+    "IMG_NB": "- {{memberCount}}位成員!",
+    "TITLE": "離開訊息"
+}

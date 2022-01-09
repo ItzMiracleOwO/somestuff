@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "設定舉報頻道!",
+    "USAGE": "{{prefix}}setreports (#channel)",
+    "EXAMPLES": "{{prefix}}setreports #reports\n{{prefix}}setreports",
+    "SUCCESS_ENABLED": "舉報將被發送 **{{channel}}**!",
+    "SUCCESS_DISABLED": "舉報頻道已被刪除!"
+}

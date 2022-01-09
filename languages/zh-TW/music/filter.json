@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "啟用或禁用過濾器!",
+    "USAGE": "{{prefix}}filter [filter]",
+    "EXAMPLES": "{{prefix}}filter vaporwave",
+    "vaild_filter" : "無效的過濾器",
+    "now_filter": "現在隊列過濾器 : {{filterr}}"
+}

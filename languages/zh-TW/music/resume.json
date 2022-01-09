@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "恢復播放歌曲",
+    "USAGE": "{{prefix}}resume",
+    "EXAMPLES": "{{prefix}}resume",
+    "error" : "`未暫停`播放!",
+    "SUCCESS": "`已恢復`播放!"
+}

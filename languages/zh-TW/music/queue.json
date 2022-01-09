@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "顯示當前的隊列歌曲",
+    "USAGE": "{{prefix}}queue",
+    "EXAMPLES": "{{prefix}}queue",
+
+    "Page" : "當前頁面"
+}

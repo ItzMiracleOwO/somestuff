@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "停止播放音樂",
+    "USAGE": "{{prefix}}stop",
+    "EXAMPLES": "{{prefix}}stop"
+}
