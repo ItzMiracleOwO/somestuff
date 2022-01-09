@@ -1,0 +1,25 @@
+{
+    "DESCRIPTION": "User infomation",
+    "USAGE": "{{prefix}}userinfo",
+    "EXAMPLES": "{{prefix}}userinfo <id / @XXX#000>",
+
+    "locale": "en-us",
+    "Name": "UserName",
+    "ID" : "User ID",
+    "IS_BOT": "Bot",
+    "Created" : "Joined Discord",
+    "Joining" : "Joined Server",
+    "UserBadges" : "User Badge",
+    "Nickname": "Nickname",
+    "Status": "Status",
+    "Playing" : "Playing",
+    "Color" : "Color",
+    "Role": "Roles",
+    "High": "Highest Role",
+    "hoist" : "Hoist Role",
+
+"NoPlaying": "None playing"
+
+
+
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Moves in the Song in: seconds",
+    "USAGE": "{{prefix}}seek",
+    "EXAMPLES": "{{prefix}}seek <DURATION>",
+    "ERROR" : "Please add the amount you wanna seek",
+    "TITLE" : "Seeked!",
+    "SUCCESS": "seeked the song to `{{time}} seconds``"
+
+}

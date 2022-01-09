@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Forwards the Song forward: seconds",
+    "USAGE": "{{prefix}}forwards <DURATION>",
+    "EXAMPLES": "{{prefix}}forwards 10",
+    "TITLE" : "FORWARD!",
+    "SUCCESS": "Forwarded the song for `{{time}}` seconds"
+}

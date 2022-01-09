@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Minecraft Name History",
+    "USAGE": "{{prefix}}nh TDTSUN",
+    "EXAMPLES": "{{prefix}}nh TDTSUN",
+    "Names" : "Names",
+    "Registered" : "Registered Names",
+    "All": "All Names "
+
+}

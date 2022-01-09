@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Plays a song, from youtube, soundcloud or whatever, or search it, or play a playlist!",
+    "USAGE": "{{prefix}}play [song]",
+    "EXAMPLES": "{{prefix}}play Bye Bye",
+    "search" : "Searching... \n > {{song}}",
+
+    "use" : " Please provide something you wanna search to"
+}

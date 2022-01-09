@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "User Avatar",
+    "USAGE": "{{prefix}}avatar",
+    "EXAMPLES": "{{prefix}}avatar",
+    "The_Avatar" : " 's Avatar'",
+    "Embed_Avatar": "Avatar Link"
+}

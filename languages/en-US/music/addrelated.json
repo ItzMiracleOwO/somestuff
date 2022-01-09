@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Adds a similar song of the current Track",
+    "USAGE": "{{prefix}}addrelated",
+    "EXAMPLES": "{{prefix}}addrelated",
+    "adding": "🔎 Adding:"
+}

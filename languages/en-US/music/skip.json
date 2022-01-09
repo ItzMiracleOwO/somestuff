@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Skip the current song",
+    "USAGE": "{{prefix}}skip",
+    "EXAMPLES": "{{prefix}}skip",
+    "TITLE" : "SKIPPED!",
+    "SUCCESS": "Skipped the song!"
+}

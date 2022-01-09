@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Replays the current song",
+    "USAGE": "{{prefix}}replay",
+    "EXAMPLES": "{{prefix}}replay",
+
+    "success" : "Replaying current song!"
+}

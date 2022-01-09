@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Invite Link",
+    "USAGE": "{{prefix}}invite",
+    "EXAMPLES": "{{prefix}}invite",
+    "title" : "Bot Invite link",
+    "Offical_Group": "💬Bot Offical Group",
+    "Bot_Link": "🤖Bot Invite Link",
+    "Vote": "Vote Link: ",
+    "Embed":"InviteLink"
+}

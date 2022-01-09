@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "check emoji infomation",
+    "USAGE": "{{prefix}}emojiinfo ",
+    "EXAMPLES": "{{prefix}}emoji <>",
+    "args" : "Put the emoji or emoji id to get the data",
+    "unicode" : "The emoji you just inserted is a unicode emoji 😔, currently I don't support these emojis 😥, but soon I will! 😏",
+    "not_exist" : "This emoji does not exists",
+    "invalid" : "Invalid emoji."
+}

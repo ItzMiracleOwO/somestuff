@@ -1,0 +1,24 @@
+{
+    "DESCRIPTION": "Channel Infomation",
+    "USAGE": "{{prefix}}channelinfo",
+    "EXAMPLES": "{{prefix}}channelinfo <text>",
+
+    "Error": "Please Mention valid Channel.",
+    "dm" : "dm",
+    "group": "Group",
+    "text":  "Text Channel",
+    "voice": "Voice Channel",
+    "category": "Category",
+    "unknown": "unknown",
+
+    "Name": "Name",
+    "id":"ID",
+    "CreatedAt" :"Created At",
+    "nsfw": "NSFW",
+    "parent" : "category",
+    "type" : "Type",
+    "topic": "Topic",
+
+    "yes":"Yes",
+    "no": "No"
+}

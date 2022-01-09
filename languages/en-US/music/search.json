@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Searches for 10 results, in youtube",
+    "USAGE": "{{prefix}}search",
+    "EXAMPLES": "{{prefix}}search <URL/NAME>",
+    "searching" : "🔎 Searching!",
+    "search_result" : "🔎 Search Results:",
+    "not_right_num" : "Not a right number!",
+    "num_result" : "so i use number 1!",
+    "error_404" : "Something went wrong! / Time ran out"
+
+}

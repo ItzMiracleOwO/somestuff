@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Watch YouTube in Discord",
+    "USAGE": "{{prefix}}yt",
+    "EXAMPLES": "{{prefix}}yt",
+
+    "TEXT": "You can use **YouTube Together** to watch Youtube in the voice channel with your friends. Click **Open YouTube Together** to watch Youtube together!",
+    "BUTTON_TEXT": "Open YouTube Together"
+}

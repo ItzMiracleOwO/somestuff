@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Enables autoplay - random similar songs",
+    "USAGE": "{{prefix}}autoplay",
+    "EXAMPLES": "{{prefix}}autoplay",
+    "message": "Autoplay is now ",
+    "active" : "active",
+    "deactive": "deactive"
+}

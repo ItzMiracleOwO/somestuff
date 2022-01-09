@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Resume the song",
+    "USAGE": "{{prefix}}resume",
+    "EXAMPLES": "{{prefix}}resume",
+    "error" : "Not paused!",
+    "SUCCESS": "Resume!"
+}

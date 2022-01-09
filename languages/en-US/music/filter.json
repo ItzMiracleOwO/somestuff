@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Enable or disable a filter!",
+    "USAGE": "{{prefix}}filter [filter]",
+    "EXAMPLES": "{{prefix}}filter vaporwave",
+    "vaild_filter" : "Not a valid filter",
+    "now_filter": "Current Queue Filter : {{filterr}}"
+}

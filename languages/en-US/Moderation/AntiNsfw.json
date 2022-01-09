@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Enable or disable automatic Anti Nsfw deletion",
+    "USAGE": "{{prefix}}autonsfw [on/off]",
+    "EXAMPLES": "{{prefix}}antinsfw on\n{{prefix}}antinsfw off \n{{prefix}}antinsfw on",
+    "MISSING_STATUS": "Please enter a valid status! (`on` or `off`)",
+    "ENABLED": "Nsfw Content will be automatically deleted",
+    "DISABLED": "All right! Auto Anti Nsfw moderation is no longer effective on this server!"
+}

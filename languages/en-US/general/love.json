@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "計算您對另一個人的愛情%",
+    "USAGE": "{{prefix}}love [mention | id | username]",
+    "EXAMPLES": "{{prefix}}love @Flqtla#1225 @User#XXX",
+    "Error" : "請標記你的另一半",
+    "Love": "喜歡",
+    "Tag_YourSelf": "你不能標記自己"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Removes a Specific Track",
+    "USAGE": "{{prefix}}remove <Queury Number>",
+    "EXAMPLES": "{{prefix}}remove 1",
+    "noargs" : "What Track Position you want to Remove?",
+    "out_range" : "Your Song Position is out of RANGE! Max: {{songs}}",
+    "success" : "Success fully removed your Track"
+
+}

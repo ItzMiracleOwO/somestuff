@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Stop the music",
+    "USAGE": "{{prefix}}stop",
+    "EXAMPLES": "{{prefix}}stop",
+    "TITLE" : "STOPPED!",
+    "SUCCESS": "Left the channel"
+}

@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Joins the Voice Channel",
+    "USAGE": "{{prefix}}join",
+    "EXAMPLES": "{{prefix}}join",
+    "TITLE" : "Joined your Channel",
+    "SUCCESS" : "`Play Tracks with: {{prefix}}play`"
+
+}

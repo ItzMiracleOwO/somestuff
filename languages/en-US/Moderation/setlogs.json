@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Set the logs channel!",
+    "USAGE": "{{prefix}}setlogs (#channel)",
+    "EXAMPLES": "{{prefix}}setlogs #modlogs\n{{prefix}}setlogs",
+    "SUCCESS_ENABLED": "logs will be sent in **{{channel}}**!",
+    "SUCCESS_DISABLED": "logs channel deleted!"
+}

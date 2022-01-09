@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Create Dynamic Voice Channel",
+    "USAGE": "{{prefix}}dvc",
+    "EXAMPLES": "{{prefix}dvc",
+    "dvc" : "Create Voice Channel",
+    "category" : "DynamicVC",
+    "EMBED_TITLE": "Dynamic Voice Channel",
+    "EMBED_DESC" : "successfully created!"
+   
+}

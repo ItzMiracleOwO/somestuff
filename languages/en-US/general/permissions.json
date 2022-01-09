@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Displays the member's permissions in the channel",
+    "USAGE": "{{prefix}}permissions (@member)",
+    "EXAMPLES": "{{prefix}}permissions\n{{prefix}permissions @YeSheng#2926",
+    "TITLE": "Permissions of {{user}} in {{channel}}"
+}

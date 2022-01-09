@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Shows the current Queue of Track",
+    "USAGE": "{{prefix}}queue",
+    "EXAMPLES": "{{prefix}}queue",
+
+    "Page" : "Current Page"
+}

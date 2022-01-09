@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "snipe message with removed ",
+    "USAGE": "{{prefix}}snipe",
+    "EXAMPLES": "{{prefix}}snipe",
+    "Error": "Sorry, Snipe commands are considered a violation of user privacy.  so we disabled it!!",
+    "NotFound": "Not found.",
+    "Message": "Message"
+}

@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Shows stats about the corona virus.",
+    "USAGE": "{{prefix}}corona",
+    "EXAMPLES": "{{prefix}}corona",
+
+    "Covid9" : "Coronavirus Stats",
+    "confirmed" : "Confirmed Cases",
+    "Today_Case": "Today Cases",
+    "Today_Death": "Today Deaths",
+    "Active": "Active",
+    "Recovered" : "Recovered",
+    "Deaths" : "Deaths",
+    "Tests": "Tests",
+    "CPM": "Cases Per Mil",
+    "DPM": "Deaths Per Mil",
+    "LastUp": "Last Updated:"
+}

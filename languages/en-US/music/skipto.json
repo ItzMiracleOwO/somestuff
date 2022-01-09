@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Jump to a song in the Queue",
+    "USAGE": "{{prefix}}skipto <Query number>",
+    "EXAMPLES": "{{prefix}}skip 2",
+    "SUCCESS_TITLE" : "SUCCESS",
+    "SUCCESS" : "Jumped {{song}} songs!",
+    "vaild_num" : "Invalid song number.",
+    "ERROR" : "ERROR",
+    "ERR_MESSAGE" : "Please use a number between **0** and **{{queuee}}**   |   *(0: disabled, 1: Repeat a song, 2: Repeat all the queue)*"
+}

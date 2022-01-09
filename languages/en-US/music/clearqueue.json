@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Clears the Queue!",
+    "USAGE": "{{prefix}}clearqueue ",
+    "EXAMPLES": "{{prefix}}clearqueue" ,
+    "success" : "Cleared the Queue!"
+
+}

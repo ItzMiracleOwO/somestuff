@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Shows current song!",
+    "USAGE": "{{prefix}}np",
+    "EXAMPLES": "{{prefix}}np"
+}

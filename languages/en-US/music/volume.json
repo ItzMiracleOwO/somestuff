@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Changes volume",
+    "USAGE": "{{prefix}}volume <Volume Number>",
+    "EXAMPLES": "{{prefix}}vol 70",
+
+    "vaild_vol" : " Please add a valid Volume Number",
+    "vaild_num" : "Not valid Number",
+    "number" : "The Number must be between `0` and `500`",
+    "vol_num" : "Please use a volume Number between `0` and `500`",
+
+    "TITLE" : "VOLUME!",
+    "SUCCESS": "changed volume to `{{volume}}`%!"
+}

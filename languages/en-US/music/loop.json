@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Enables loop for off / song / queue*\n0 = off\n1 = song\n2 = queue",
+    "USAGE": "{{prefix}}loop 0 / 1 / 2 ",
+    "EXAMPLES": "{{prefix}}loop 2",
+    "loop_style" : " Please add the Loop style Options wanna change",
+    "options" : "Valid Options:\n`0`  /  `1` / `2` \n`off` / `song` / `queue`",
+    "successTitle" : "Repeat mode set to:",
+    "off" : "⛔ OFF",
+    "song" : "🔂 Repeat Song",
+    "queue" : "🔁 Repeat Queue",
+    "error": "ERROR",
+    "number" : "Please use a number between **0** and **2**   |   *(0: disabled, 1: Repeat a song, 2: Repeat all the queue)*"
+}

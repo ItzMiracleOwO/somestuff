@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Shows the stats of the bot!",
+    "USAGE": "{{prefix}}stats",
+    "EXAMPLES": "{{prefix}}stats",
+    "COUNTS_TITLE": "• __Statistics__",
+    "COUNTS_CONTENT": "`Servers: {{servers}}`\n`Users: {{users}}` (DISCORD GATEWAY INTENT)",
+    "VERSIONS_TITLE": "• __Versions__",
+    "RAM_TITLE": "Memory",
+    "ONLINE_TITLE": "Uptime",
+    "ONLINE_CONTENT": "Online {{time}}",
+    "MUSIC_TITLE": "• __Music__",
+    "MUSIC_CONTENT": "Playing music on `{{count}}` servers",
+    "LINKS_TITLE": "• __Links__",
+    "SYSTEM" : "Operating system",
+    "Verified" : "Verified",
+    "Servers" : "Servers",
+    "Tracked" : "Tracked",
+    "ping" : "Ping"
+}
